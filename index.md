@@ -2,6 +2,62 @@
 layout: default
 ---
 
+Tell me - do you like yourself?
+
+
+
+## The offer / craic
+
+
+
+
+
+## Why you might want to
+
+
+
+
+
+## About you
+
+
+
+
+
+## About me
+
+
+
+
+
+## Caveats and final words
+
+
+(inc. the skill)
+
+
+CTA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+***
+
+
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
