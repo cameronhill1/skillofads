@@ -24,26 +24,25 @@ The offer is open to you if:
 
 - We're small by design - We value quality over quantity in all things, and we keep things simple so we're able to focus deeply on doing great work for the few, not the many.
 - "T-stacked" abilities - Before founding, Cameron, our principal, worked in all domains of the customer experience - from grassroots events and awareness-based promotions for major brands like Škoda and VW, to cutting his teeth in cold-calling and door-to-door sales (business and consumer), and even developing high-end websites and marketing funnels (from high-level strategy down to button-clicking and coding), before focusing in on digital advertising.
-- Fundamentals over flash - Technology trends, marketing tactics, and even entire advertising platforms come and go... But the fundamentals of business, sales, and human nature (, creativity... these) stay largely the same. If you have a firm grasp of the fundamental principles, you can invent your own tactics. And if you don't - no chatbot or sneaky ad trickery (acrobatics) could possibly save you.
-
-
-(
-- Cameron is currently 23. If you're looking for "experience", we're not the agency for you. If you want results, we might be able to help.
-)
+- Fundamentals over flash - Technology trends, marketing tactics, and even entire advertising platforms come and go... But the fundamentals of business, sales, and human nature (, creativity, experimentation... these) stay largely the same. If you have a firm grasp of the fundamental principles, you can invent your own tactics. And if you don't - no chatbot or sneaky ad trickery (acrobatics) could possibly save you.
 
 
 ## The typical process
 
-- 
-
-
+- After filling out the form on this page, you'll get an email with a link to Cameron's calendar, where you can schedule a call.
+- We'll hop on the call and discuss your business. We'll go through a series of questions to understand your business and your goals, and to get a good feel for whether we'll be able to help you or not, and to see if it's a good fit. If not, we'll tell you.
+- If it is, we'll work through terms and come to a simple, win-win agreement as quickly as possible. Usually, this involves a 3-month initial commitment (to give the ads time to work themselves out), and performance-based pricing. If your funnel is unvalidated (has not previously been significantly profitable), or you need one built, there will be substantial setup and retainer fees until it's suitably profitable, at which point we can switch format.
+- Once that's out the way, we'll collect what we need from you and your team - like assets, account access, information on your business and customers - and get to work, starting at high level strategy and working down to the nitty gritty. We'll begin testing and experimenting as soon as possible, and we'll look to scale as soon as comfortably profitable.
+- You and your team will receive basic spending and ROI reports, we'll hop on calls occasionally when it's genuinely useful, and we'll invoice you in alignment with out agreement. Our partnership will likely be simple, effortless, and very mutually profitable.
 
 
 
 ## Caveats and final words
 
+- The primacy of the product - You don't need us to tell you that no matter how good the marketing is, if you have a subpar product or service, it won't be enough. Therefore, it's best if you don't seek to work with us if you're not proud of the core of your business. On the other hand, this is also one of the benefits of an advertising partner - it frees up bandwidth to focus on listening to the customer and improving their experience... and then everyone benefits even more. As a side note, this is the same reason why we keep our own marketing (ad and website) so minimal - it frees us up to focus more on our partners' ads.
+- Realistic expectations - ... no guarantee, no refunds... Digital ads aren’t valid for everyone, and I try to sniff that out before we even get on a call together, and won’t proceed after the call unless I feel confident. But it is still a gamble, and by proceeding, you understand that.
+- You have to lose before you can win - ... please don't gamble the last of your savings - you should be able to comfortable lose a decent chunk of change and just write it off as "testing budget" and "just another experiment".
 
-(inc. the skill)
 
 
 ## CTA
@@ -52,13 +51,20 @@ The offer is open to you if:
 
 
 
+(
 
+If I’ve gotten you more interested than you’ve ever been before in an advertising partner, chances are I can do the same for you and your clients.
 
+If you’re interested but now’s not the right time, personally or professionally, (or you can’t see the other form on the page, meaning I’m currently not accepting new clients) - You’re welcome to put your email in this box and submit. I don’t market, I don’t sell, I don’t bug or spam or anything. The only emails you’ll ever get from me will look like this:
 
+Ready to work together?
+-> link
 
+Subj - name
 
+And they’ll come once a quarter, manually, unless I’m not looking for new business.
 
-
+)
 
 
 
@@ -66,124 +72,3 @@ The offer is open to you if:
 ***
 
 
-
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
