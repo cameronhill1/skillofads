@@ -1,6 +1,3 @@
----
-layout: default
----
 
 Tell me - do you like yourself?
 
