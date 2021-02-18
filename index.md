@@ -17,34 +17,26 @@ The offer is open to you if:
 
 - You run a relatively simple, profitable, and ethical business
 - You're willing and able to quickly and easily scale once ads are profitable (no major operational ceilings, budget constraints, or red tape) - so we both stand to make good money from our work together
-- You're happy to leave us to do the work and produce results - you're not going to feel uncomfortable with a lack of pretty reports and diagrams, and you certainly don't want 3 calls a week discussing the "benefits" of more likes on your Facebook page.
+- You're happy to leave us to do the work and produce results - you're not going to feel uncomfortable with a lack of pretty reports and diagrams, and you certainly don't want 3 calls a week so we can convince you of the "benefits" of more likes on your Facebook page.
 
 
 ## About us
 
-- We're a small... quality over quantity... We value simplicity in all things, so we can focus on can grappling with the complexities of our partners' ads and making them profitable.
-- "T-stacked" abilities - Our founder/principal, Cameron, has worked in most all domains of the customer experience - from grassroots events and awareness-based promotions for major brands like Škoda and VW, to cutting his teeth in cold-calling and door-to-door sales (both for the business and the consumer), and even developing high-end websites and sophisticated marketing funnels (from high-level strategy down to button-clicking and coding), before specializing in digital advertising.
+- We're small by design - We value quality over quantity in all things, and we keep things simple so we're able to focus deeply on doing great work for the few, not the many.
+- "T-stacked" abilities - Before founding, Cameron, our principal, worked in all domains of the customer experience - from grassroots events and awareness-based promotions for major brands like Škoda and VW, to cutting his teeth in cold-calling and door-to-door sales (business and consumer), and even developing high-end websites and marketing funnels (from high-level strategy down to button-clicking and coding), before focusing in on digital advertising.
+- Fundamentals over flash - Technology trends, marketing tactics, and even entire advertising platforms come and go... But the fundamentals of business, sales, and human nature (, creativity... these) stay largely the same. If you have a firm grasp of the fundamental principles, you can invent your own tactics. And if you don't - no chatbot or sneaky ad trickery (acrobatics) could possibly save you.
+
+
+(
 - Cameron is currently 23. If you're looking for "experience", we're not the agency for you. If you want results, we might be able to help.
+)
 
 
-
-
-
-## Why you might want to / the
+## The typical process
 
 - 
 
 
-
-## About you
-
-- 
-
-
-
-## About me
-
-- 
 
 
 
