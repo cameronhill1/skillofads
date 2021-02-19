@@ -49,11 +49,11 @@ The offer is open to you if:
 
 If you're interested in working together after reading all of the above, please click the button below and fill out the simple Google Form. From there, you will be given a calendar link to pick a call slot, and if nothing there works, we'll reach out to find a time that does.
 
-[Click here](https://forms.google.com)
+[-> Click here](https://forms.google.com)
 
 Note - If you’re interested but now’s not the right time, personally or professionally, we understand - there's a box to express that in the form. If you select that, we don't spam, market, sell, pester, or anything. Instead, you'll receive no more than 1 email per quarter from us, just saying: "Ready to work together?" If you're ready, just reply to that email and we'll go from there.
 
-[Click here](https://forms.google.com)
+[-> Click here](https://forms.google.com)
 
 Best
 CH, founder.
