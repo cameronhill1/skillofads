@@ -47,21 +47,19 @@ The offer is open to you if:
 
 ## The next step
 
-If you're interested in working together after reading all of the above, please click the button below and fill out the simple Google Form. From there, you will be given a calendar link for picking a call slot, or if nothing there works, we'll reach out to find a time that does.
-
+If you're interested in working together after reading all of the above, please click the button below and fill out the simple Google Form. From there, you will be given a calendar link to pick a call slot, and if nothing there works, we'll reach out to find a time that does.
 
 [Click here](https://forms.google.com)
 
+Note - If you’re interested but now’s not the right time, personally or professionally, we understand - there's a box to express that in the form. If you select that, we don't spam, market, sell, pester, or anything. Instead, you'll receive no more than 1 email per quarter from us, just saying: "Ready to work together?" If you're ready, just reply to that email and we'll go from there.
 
-Note - If you’re interested but now’s not the right time, personally or professionally, there's a box to express that in the form. If you select that, you'll receive no more than 1 email per quarter from us, and it will say something simple like "Ready to work together?" If you're ready, just reply to that email and we'll go from there.
+[Click here](https://forms.google.com)
 
-
-or you're seeing a message saying we’re currently not accepting new clients, you’re welcome to put your email in this box and submit. I don’t market, I don’t sell, I don’t bug or spam or anything. The only emails you’ll ever get from me will look like this:
-
-
+Best
+CH, founder.
 
 
 
 ***
 
-
+© soa mmxxi
