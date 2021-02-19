@@ -55,7 +55,7 @@ Note - If you’re interested but now’s not the right time, personally or prof
 
 [-> Click here](https://forms.google.com)
 
-Best
+Best,
 CH, founder.
 
 
